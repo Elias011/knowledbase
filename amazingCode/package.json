@@ -1,0 +1,25 @@
+{
+  "name": "demonode",
+  "version": "0.0.1",
+  "description": "Demo node for Elias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "keywords": [
+    "alá",
+    "Madrid",
+    "coño!!"
+  ],
+  "author": "@pabagan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "csv-parse": "^2.5.0",
+    "mailchimp-api-v3": "^1.12.0"
+  }
+}
