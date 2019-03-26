@@ -18,3 +18,6 @@
 
 ### According to the ISTQB Glossary, debugging:
 include the repair of the cause of failure
+
+### What is Component Testing also called Module Testing in Software Testing:
+A component is the lowest unit of any application. So, Component testing; as the name suggests, is a technique of testing the lowest or the smallest unit of any application.
