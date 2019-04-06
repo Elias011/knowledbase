@@ -60,11 +60,11 @@ A staging environment (stage) is a nearly exact replica of a production environm
 
 ### What is DSP environments?
 -  development
--  staging 
+-  staging
 -  production
 
 ### Development Environment
-The development environment normally has three server tiers, called development, staging and production. All three tiers together are usually referred to as the DSP. 
+The development environment normally has three server tiers, called development, staging and production. All three tiers together are usually referred to as the DSP.
 
 - Development Server: Here is where the developer tests code and       checks whether the application runs successfully with that code.     Once the application has been tested and the developer feels that    the code is working fine, the application then moves to the          staging server.
 - Staging Server:This environment is made to look exactly like the     production server environment. The application is tested on the      staging server to check for reliability and to make sure it does     not fail on the actual production server. This type of testing on    the staging server is the final step before the application could    be deployed on a production server. The application needs to be      approved in order to deploy it on the production server.
@@ -78,3 +78,11 @@ The definition for single sign-on from The Open Group is, "Single sign-on (SSO) 
 
 ### What is Regression Testing?
 Whenever developers change or modify their software, even a small tweak can have unexpected consequences. Regression testing is testing existing software applications to make sure that a change or addition hasn’t broken any existing functionality. Its purpose is to catch bugs that may have been accidentally introduced into a new build or release candidate, and to ensure that previously eradicated bugs continue to stay dead.  By re-running testing scenarios that were originally scripted when known problems were first fixed, you can make sure that any new changes to an application haven’t resulted in a regression, or caused components that formerly worked to fail.  Such tests can be performed manually on small projects, but in most cases repeating a suite of tests each time an update is made is too time-consuming and complicated to consider, so an automated testing tool is typically required.
+
+### What is the difference between a function and a method?
+A function is a piece of code that is called by name. It can be passed data to operate on (i.e. the parameters) and can optionally return data (the return value). All data that is passed to a function is explicitly passed.
+
+A method is a piece of code that is called by a name that is associated with an object. In most respects it is identical to a function except for two key differences:
+
+1. A method is implicitly passed the object on which it was called.
+2. A method is able to operate on data that is contained within the class (remembering that an object is an instance of a class - the class is the definition, the object is an instance of that data).
