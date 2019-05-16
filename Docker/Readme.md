@@ -420,4 +420,6 @@ You have just seen Docker at a very high level. There is a lot more to learn abo
 - Docker Stack (Grouping services required by an application)
 - Docker Compose (Tool for managing and running multiple containers)
 - Docker Swarm (Grouping and managing one or more machines on which docker is running)
-- And much more…
+
+
+***Article source:*** https://medium.freecodecamp.org/docker-simplified-96639a35ff36
