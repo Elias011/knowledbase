@@ -103,3 +103,10 @@ UML, short for Unified Modeling Language, is a standardized modeling language co
 | One goal, no details          |   Multiple goals and details      |
 | Informal                      |   Casual to (very) formal         |
 | Placeholder for conversation  |   "Record of conversation"        |
+
+
+### What is the difference between build and release?
+A “build” is a developed application for the customers that is given by development team to the software testing team. A “release” is an official launch of the application for the customers. A build when tested and certified by the software testing team is provided to the customers as “release”.
+
+### What is RTM (Requirement Traceability Matrix)?
+Requirement Traceability Matrix or RTM captures all requirements proposed by the client or software development team and their traceability in a single document delivered at the conclusion of the life-cycle.
