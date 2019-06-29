@@ -110,3 +110,15 @@ A “build” is a developed application for the customers that is given by deve
 
 ### What is RTM (Requirement Traceability Matrix)?
 Requirement Traceability Matrix or RTM captures all requirements proposed by the client or software development team and their traceability in a single document delivered at the conclusion of the life-cycle.
+
+### What is the critical path testing? 
+Critical path testing is aimed at exploring the functionality used by typical users in typical daily activities. The idea is borrowed from project management and transformed in the context of testing into the following: there are most users who most often use a certain subset of the application functions. It is these functions that need to be checked as soon as we were convinced that the application “works in principle” (the smoke test was successful).
+
+* ***What is the the positive test of the critical path?***
+A positive test of the critical path is a test of the software product functionality that the user faces daily.
+
+* ***What is the negative test of the critical path?***
+A negative test of the critical path is a test of various options for non-standard use of the functionality used by the user every day.
+
+[Read more about the critical path](https://newline.tech/blog/critical-path-test)
+
