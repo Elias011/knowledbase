@@ -15,6 +15,17 @@ Test Strategy is at a higher level, mostly created by the Project Manager which 
 ### Can you explain the software testing life cycle?
 Software Testing Life Cycle refers to a testing process which has specific steps to be executed in a definite sequence to ensure that the quality goals have been met.
 
+Below are the phases of STLC:
+
+- Requirements phase
+- Planning Phase
+- Analysis phase
+- Design Phase
+- Implementation Phase
+- Execution Phase
+- Conclusion Phase
+- Closure Phase
+
 ### What is Usability testing?
 Usability testing is a way to see how easy to use something is by testing it with real users. Users are asked to complete tasks, typically while they are being observed by a researcher, to see where they encounter problems and experience confusion.
 
@@ -132,3 +143,11 @@ Continuous Delivery benefits business users because as soon as code is successfu
 Continuous Deployment seamlessly pushes code that has been successfully accepted in the CI/CD cycle into the production environment. This stage benefits all key stakeholders, from application investors who fund the development to external consumers and internal end-users as new features/application is available for immediate (external) commercial sale or internal use.
 
 Developers can best utilize the CI/CD/CD process by leveraging on Open Source tooling (e.g., Jenkins, GIT, and Bamboo from Atalassian), or AWS services (e.g., Code Deploy) that automates various integration, deployment, and release management tasks.
+
+### What's the difference between assertion library, testing framework and testing environment in javascript?
+- Assertion libraries are tools to verify that things are correct.
+This makes it a lot easier to test your code, so you don't have to do thousands of if statements.
+
+- Testing frameworks are used to organize and execute tests.
+Mocha and Jasmine are two popular choices (and they're actually kinda similar).
+Example (using mocha with should.js here):
