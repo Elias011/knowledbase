@@ -151,3 +151,6 @@ This makes it a lot easier to test your code, so you don't have to do thousands 
 - Testing frameworks are used to organize and execute tests.
 Mocha and Jasmine are two popular choices (and they're actually kinda similar).
 Example (using mocha with should.js here):
+
+### What is meant by the Experience Based Testing?
+As of now, you all might have understood the basic meaning of "experience based testing". It is the technique of executing testing activities with the help of experience gained through several years of churning. Basically,a tester verifies and validates the software product quality using his/her past experience of testing the similar type of product in the respective domain.
