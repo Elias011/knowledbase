@@ -154,3 +154,19 @@ Example (using mocha with should.js here):
 
 ### What is meant by the Experience Based Testing?
 As of now, you all might have understood the basic meaning of "experience based testing". It is the technique of executing testing activities with the help of experience gained through several years of churning. Basically,a tester verifies and validates the software product quality using his/her past experience of testing the similar type of product in the respective domain.
+
+### Kanban VS Scrum
+Kanban has Agile coach and sometimes project manager
+Scrum has scrum master
+
+Kanban: Deliver and process happens continuously on as needed 
+Scrum: Delivery and process determined by sprint 
+
+Kanba: Using "pull system" that's mean pull new task form the backlog when the previuos task is completly done
+Scrum: Using the pull system in the sprint planning
+
+Kanban: Measures production using cycle time or the amount of time need the pice od project to be done 
+Scrum: Measures production using velocity of the sprint, each print seccesful relates to the previous sprint
+
+Kanban: Best for projects with widely-varying priorities.
+Scrum: Best for teams with stable priorities that may not change as much over time.
