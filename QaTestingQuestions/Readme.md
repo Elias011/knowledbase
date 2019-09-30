@@ -170,3 +170,6 @@ Scrum: Measures production using velocity of the sprint, each print seccesful re
 
 Kanban: Best for projects with widely-varying priorities.
 Scrum: Best for teams with stable priorities that may not change as much over time.
+
+### What is system testing?
+System testing is a level of software testing where a complete and integrated software is tested. The purpose of this test is to evaluate the system's compliance with the specified requirements. system testing: The process of testing an integrated system to verify that it meets specified requirements.
