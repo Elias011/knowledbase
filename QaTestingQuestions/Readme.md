@@ -173,3 +173,7 @@ Scrum: Best for teams with stable priorities that may not change as much over ti
 
 ### What is system testing?
 System testing is a level of software testing where a complete and integrated software is tested. The purpose of this test is to evaluate the system's compliance with the specified requirements. system testing: The process of testing an integrated system to verify that it meets specified requirements.
+
+### What is widget?
+- A widget is an element of a graphical user interface (GUI) that displays information or provides a specific way for a user to interact with the operating system or an application.
+- In programming, widget also means the small program that is written in order to describe what a particular widget looks like, how it behaves and how it responds to user actions. Most operating systems include a set of ready-to-tailor widgets that a programmer can incorporate in an application, specifying how it is to behave.
