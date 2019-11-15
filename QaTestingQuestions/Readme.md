@@ -177,3 +177,6 @@ System testing is a level of software testing where a complete and integrated so
 ### What is widget?
 - A widget is an element of a graphical user interface (GUI) that displays information or provides a specific way for a user to interact with the operating system or an application.
 - In programming, widget also means the small program that is written in order to describe what a particular widget looks like, how it behaves and how it responds to user actions. Most operating systems include a set of ready-to-tailor widgets that a programmer can incorporate in an application, specifying how it is to behave.
+
+### False-positives VS False negative
+False positives come into play when a test case fails, but in actuality there is no bug and/or the functionality is working correctly. ... Whereas a false positive may consume a lot of a tester's energy and time, a false negative allows a bug to remain in the software for an indeterminate amount of time
