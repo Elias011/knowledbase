@@ -40,3 +40,5 @@ Every single condition should be enlisted as a separate test case
 ```
 There are 2 kinds of bad tests.. Slow and flaky. even 1 flaky test out of 5000 tests would cause submits to fail and slow everything down. and if tests take too long to run; a) folks will be more likely to skip them and b)that doesn’t exactly help motivate folks to write more tests.
 ```
+### What is the differcnce between E2E test and UI test?
+The main difference would be the coverage, the E2E test would try to cover the scenario which may be one use of the form. Where as, the UI testing would cover all the things that the user can do with the form, including entering bad data.

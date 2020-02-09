@@ -180,3 +180,6 @@ System testing is a level of software testing where a complete and integrated so
 
 ### False-positives VS False negative
 False positives come into play when a test case fails, but in actuality there is no bug and/or the functionality is working correctly. ... Whereas a false positive may consume a lot of a tester's energy and time, a false negative allows a bug to remain in the software for an indeterminate amount of time
+
+### What is the differcnce between E2E test and UI test?
+The main difference would be the coverage, the E2E test would try to cover the scenario which may be one use of the form. Where as, the UI testing would cover all the things that the user can do with the form, including entering bad data.
