@@ -32,3 +32,8 @@ thee git pull and git will ask you to type your password
 ssh git@gitlab.com 2fa_recovery_codes
 ```
 Then say yes, and you will get a new list of codes, use one of them 
+
+### These steps helps to merge small changes with the previous commite
+1- git add .
+2- git commit --amend
+3- git push origin your_branch --force
