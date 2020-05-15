@@ -183,3 +183,15 @@ False positives come into play when a test case fails, but in actuality there is
 
 ### What is the differcnce between E2E test and UI test?
 The main difference would be the coverage, the E2E test would try to cover the scenario which may be one use of the form. Where as, the UI testing would cover all the things that the user can do with the form, including entering bad data.
+
+### What is Keyword Driven Testing?
+KEYWORD-DRIVEN TESTING is a scripting technique that uses data files to contain the keywords related to the application being tested. These keywords describe the set of actions that is required to perform a specific step.
+
+### The principles of test automation
+1. Follow test automation pyramid
+2. Focus on test reliability over more automation
+3. Don't rerun failed tests
+4. Use page objects
+5. Use only explicity waits
+6. Stay Dry
+8. Keep classes and methods small
