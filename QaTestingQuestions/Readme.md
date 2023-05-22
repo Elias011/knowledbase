@@ -195,3 +195,10 @@ KEYWORD-DRIVEN TESTING is a scripting technique that uses data files to contain 
 5. Use only explicity waits
 6. Stay Dry
 8. Keep classes and methods small
+
+### What is the difference between .Net and .Net Core?
+.NET Framework includes the developer tools, languages, and libraries needed to develop Windows applications. .NET Core is a complete rewrite intended to make it a more flexible, cross-platform, modular approach to application development. However, they do share:
+
+- The same base class library
+- A shared API, .NET Standard
+- Support for Windows and Windows Server 
